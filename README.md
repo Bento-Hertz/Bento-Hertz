@@ -2,7 +2,7 @@
 
 <hr style="margin-bottom:16px;width:100%;"/>
 
-<div style="display:flex;gap:24px;">
+<div style="display:flex;gap:24px;justify-content:space-between;">
 <img src="https://github-readme-stats.vercel.app/api?username=Bento-Hertz&show_icons=true&theme=tokyonight"/>
 <img style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
 </div>
