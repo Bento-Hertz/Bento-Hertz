@@ -7,6 +7,8 @@
   <img style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bento-Hertz&layout=compact&theme=tokyonight"/>
 </div>
 
+### Skills
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass)](https://skillicons.dev)
 
 <hr style="margin-bottom:16px;"/>
