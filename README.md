@@ -9,7 +9,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,less,bootstrap,react,nextjs,redux,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,sass,bootstrap,react,nextjs,redux,figma)](https://skillicons.dev)
 
 <hr style="margin-bottom:16px;"/>
 
