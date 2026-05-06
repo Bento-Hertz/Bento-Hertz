@@ -1,5 +1,3 @@
-### Hello! My name is Bento Hertz and I am a Front-End developer.
-
 <hr style="margin-bottom:16px;"/>
 
 <div style="display:flex;margin-bottom:16px">
